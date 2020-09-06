@@ -1,3 +1,2 @@
 # goAlg
 gogo
-hello   
